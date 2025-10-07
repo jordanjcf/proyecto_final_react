@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "nombre": "Camiseta Casual Unisex",
+    "descripcion": "Camiseta de algodón suave, ideal para uso diario.",
+    "precio": 15.99,
+    "categoria": "Ropa",
+    "img": "https://images.unsplash.com/photo-1529374255404-311a2a4f1fd9?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 2,
+    "nombre": "Jean Ajustado",
+    "descripcion": "Pantalón de mezclilla para hombre, corte moderno.",
+    "precio": 35.5,
+    "categoria": "Ropa",
+    "img": "https://images.unsplash.com/photo-1475178626620-a4d074967452?q=80&w=686&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 3,
+    "nombre": "Vestido Veraniego",
+    "descripcion": "Vestido ligero y fresco, perfecto para verano.",
+    "precio": 29.99,
+    "categoria": "Ropa",
+    "img": "https://images.unsplash.com/photo-1604506272685-a999a4d122e7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8VmVzdGlkbyUyMFZlcmFuaWVnb3xlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": 4,
+    "nombre": "Chaqueta Impermeable",
+    "descripcion": "Chaqueta resistente al agua para clima lluvioso.",
+    "precio": 49.99,
+    "categoria": "Ropa",
+    "img": "https://images.unsplash.com/photo-1611308725032-74f0a551d018?q=80&w=722&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 5,
+    "nombre": "Smartphone XYZ 128GB",
+    "descripcion": "Teléfono inteligente con pantalla AMOLED y cámara 48MP.",
+    "precio": 299.99,
+    "categoria": "Tecnología",
+    "img": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "id": 6,
+    "nombre": "Laptop Gamer 16GB RAM",
+    "descripcion": "Laptop con tarjeta gráfica GTX 1650 para gaming y diseño.",
+    "precio": 799.99,
+    "categoria": "Tecnología",
+    "img": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "id": 7,
+    "nombre": "Auriculares Inalámbricos",
+    "descripcion": "Auriculares bluetooth con cancelación de ruido.",
+    "precio": 59.99,
+    "categoria": "Tecnología",
+    "img": "https://images.unsplash.com/photo-1511367461989-f85a21fda167?auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "id": 8,
+    "nombre": "Smartwatch Deportivo",
+    "descripcion": "Reloj inteligente con monitor de frecuencia cardíaca.",
+    "precio": 79.99,
+    "categoria": "Tecnología",
+    "img": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "id": 9,
+    "nombre": "Set de Ollas Antiadherentes",
+    "descripcion": "Juego de 5 ollas para cocina, aptas para todo tipo de fuego.",
+    "precio": 55.75,
+    "categoria": "Hogar",
+    "img": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "id": 10,
+    "nombre": "Aspiradora Robot Inteligente",
+    "descripcion": "Limpia automáticamente tus pisos con control por app.",
+    "precio": 199.99,
+    "categoria": "Hogar",
+    "img": "https://plus.unsplash.com/premium_photo-1729006559482-d289e4385b1e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8QXNwaXJhZG9yYSUyMFJvYm90JTIwSW50ZWxpZ2VudGV8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "id": 11,
+    "nombre": "Lampara LED de Escritorio",
+    "descripcion": "Iluminación ajustable para lectura o trabajo.",
+    "precio": 25.5,
+    "categoria": "Hogar",
+    "img": "https://images.unsplash.com/photo-1571406487954-dc11b0c0767d?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 12,
+    "nombre": "Cafetera Automática",
+    "descripcion": "Prepara café de forma rápida y sencilla.",
+    "precio": 89.99,
+    "categoria": "Hogar",
+    "img": "https://images.unsplash.com/photo-1752494746969-b93a4dfc722c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2FmZXRlcmElMjBBdXRvbSVDMyVBMXRpY2F8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "id": 13,
+    "nombre": "Auriculares Gaming RGB",
+    "descripcion": "Auriculares con sonido envolvente y micrófono ajustable.",
+    "precio": 49.99,
+    "categoria": "Gaming",
+    "img": "https://plus.unsplash.com/premium_photo-1677158265072-5d15db9e23b2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8QXVyaWN1bGFyZXMlMjBHYW1pbmclMjBSR0J8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "id": 14,
+    "nombre": "Teclado Mecánico Gamer",
+    "descripcion": "Teclado con retroiluminación RGB y switches táctiles.",
+    "precio": 69.99,
+    "categoria": "Gaming",
+    "img": "https://plus.unsplash.com/premium_photo-1723632256296-1716dece46a3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fFRlY2xhZG8lMjBNZWMlQzMlQTFuaWNvJTIwR2FtZXJ8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "id": 15,
+    "nombre": "Mouse Gamer Ergonomico",
+    "descripcion": "Mouse con DPI ajustable y diseño cómodo para largas sesiones.",
+    "precio": 29.99,
+    "categoria": "Gaming",
+    "img": "https://media.istockphoto.com/id/2226027285/photo/isolated-gaming-mouse-ergonomic-precision.webp?s=2048x2048&w=is&k=20&c=u9sB7JBFhKJ61DHOCjfDz1tYqkhMSKqRMSg_hqUX3T0="
+  },
+  {
+    "id": 16,
+    "nombre": "Silla Gamer Ajustable",
+    "descripcion": "Silla con soporte lumbar y reclinable para gaming.",
+    "precio": 129.99,
+    "categoria": "Gaming",
+    "img": "https://images.unsplash.com/photo-1670946839270-cc4febd43b09?q=80&w=688&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 17,
+    "nombre": "Reloj Inteligente",
+    "descripcion": "Monitorea tu actividad física y recibe notificaciones.",
+    "precio": 39.99,
+    "categoria": "Accesorios",
+    "img": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?q=80&w=1172&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 18,
+    "nombre": "Gafas de Sol UV400",
+    "descripcion": "Protección total contra rayos UV con diseño moderno.",
+    "precio": 12.5,
+    "categoria": "Accesorios",
+    "img": "https://media.istockphoto.com/id/1472805295/vector/vector-3d-realistic-modern-unisex-frame-glasses-black-color-frame-purple-and-blue.webp?s=2048x2048&w=is&k=20&c=eB0Nr45TuJiiEPQeDgcrQAflXROelya-6FTnrHS01F8="
+  },
+  {
+    "id": 19,
+    "nombre": "Mochila Urbana",
+    "descripcion": "Mochila resistente al agua, ideal para trabajo o universidad.",
+    "precio": 35.99,
+    "categoria": "Accesorios",
+    "img": "https://media.istockphoto.com/id/1153473914/photo/close-up-photo-of-a-backpack-lying-on-a-skateboard-that-stands-on-a-bench-on-the-embankment.webp?s=2048x2048&w=is&k=20&c=tXm_RBC2BBkLBtgWJp2TKKRFntw5kP3nlJWaGtTllGk="
+  },
+  {
+    "id": 20,
+    "nombre": "Pulsera Fitness",
+    "descripcion": "Registra pasos, calorías y calidad del sueño.",
+    "precio": 22.99,
+    "categoria": "Accesorios",
+    "img": "https://plus.unsplash.com/premium_photo-1681433383783-661b519b154a?q=80&w=1460&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  }
+]
