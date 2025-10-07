@@ -1,7 +1,3 @@
-# Proyecto Final React – E-Commerce
-
-![Demo Image](https://via.placeholder.com/800x400?text=Proyecto+Final+React)
-
 ## Descripción
 
 Este proyecto es un **e-commerce moderno** desarrollado con **React y Vite**.  
